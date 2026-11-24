@@ -1,0 +1,59 @@
+body {
+    background-color: #f3edf8; /* Sets a light purple background */
+    font-family: Arial, sans-serif; /* Sets the text font */
+    margin: 0; /* Removes default page spacing */
+    padding: 20px; /* Adds space around the page */
+}
+
+.container {
+    background-color: white; /* Sets the container background */
+    max-width: 450px; /* Limits the container width */
+    margin: 60px auto; /* Centers the container horizontally */
+    padding: 30px; /* Adds space inside the container */
+    border-radius: 12px; /* Rounds the container corners */
+    text-align: center; /* Centers the text */
+}
+
+h1 {
+    color: #471869; /* Sets the main heading color */
+    font-size: 30px; /* Sets the main heading size */
+}
+
+h2 {
+    color: #471869; /* Sets the discount text color */
+    font-size: 24px; /* Makes the offer stand out */
+}
+
+p {
+    color: #555555; /* Sets a soft gray text color */
+    font-size: 16px; /* Sets the paragraph size */
+    line-height: 1.6; /* Adds space between lines */
+}
+
+label {
+    display: block; /* Places the label on its own line */
+    text-align: left; /* Aligns the label to the left */
+    margin-bottom: 8px; /* Adds space below the label */
+    font-weight: bold; /* Makes the label bold */
+}
+
+input {
+    width: 100%; /* Makes the input fill the container */
+    padding: 12px; /* Adds space inside the input */
+    border: 1px solid #cccccc; /* Adds a light gray border */
+    border-radius: 5px; /* Rounds the input corners */
+    box-sizing: border-box; /* Keeps the input within the container */
+    margin-bottom: 20px; /* Adds space below the input */
+    font-size: 16px; /* Sets the input text size */
+}
+
+button {
+    background-color: #471869; /* Sets the purple button color */
+    color: white; /* Makes the button text white */
+    width: 100%; /* Makes the button fill the container */
+    padding: 14px; /* Adds space inside the button */
+    border: none; /* Removes the default border */
+    border-radius: 5px; /* Rounds the button corners */
+    font-size: 16px; /* Sets the button text size */
+    cursor: pointer; /* Shows a hand over the button */
+}
