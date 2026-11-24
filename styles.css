@@ -64,5 +64,7 @@ button {
 .featured-img {
     display: block; /* Displays the image on its own line */
     margin: 0 auto; /* Centers the image horizontally */
+    width: 180px; /* Makes the image smaller */
+    height: auto; /* Maintains the image proportions */
     border: 3px solid #471869; /* Adds a solid purple border */
 }
