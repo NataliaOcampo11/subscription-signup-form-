@@ -57,10 +57,7 @@ button {
     font-size: 16px; /* Sets the button text size */
     cursor: pointer; /* Shows a hand over the button */
 }
-.featured-img {
-    display: block; /* Displays the image on its own line */
-    margin: 0 auto; /* Centers the image horizontally */
-}
+
 .featured-img {
     display: block; /* Displays the image on its own line */
     margin: 0 auto; /* Centers the image horizontally */
